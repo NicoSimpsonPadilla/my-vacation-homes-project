@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # My Vacation Homes Project
 
 This is a web application to showcase and book vacation rental homes, built with React.

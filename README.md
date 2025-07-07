@@ -1,6 +1,25 @@
 <<<<<<< HEAD
-# my-vacation-homes-project
+# My Vacation Homes Project
+
+This is a web application to showcase and book vacation rental homes, built with React.
+
+---
+
+## Description
+
+This project allows you to list your available rental properties, manage bookings, and display real-time availability—similar to platforms like Airbnb or Booking, but specifically for the homes you add to your database.
+
+---
+
+## Technologies Used
+
+- React (Create React App)
+- JavaScript (ES6+)
+- CSS
+- Git and GitHub for version control
+
 =======
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

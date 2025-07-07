@@ -17,7 +17,7 @@ This project allows you to list your available rental properties, manage booking
 - CSS
 - Git and GitHub for version control
 
-=======
+***
 
 # Getting Started with Create React App
 
